@@ -1,2 +1,2 @@
 # CodecademyTeaCozyProject
-Rundown of Tea Cozy Project
+Random codecademy project
